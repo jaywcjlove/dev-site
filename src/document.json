@@ -31,17 +31,6 @@
     "tags": [ "服务端", "后端" ]
   },
   {
-    "title": "Nginx",
-    "website": "http://nginx.org/en/",
-    "des": "是一个高性能的HTTP和反向代理服务器，也是一个IMAP/POP3/SMTP服务器。",
-    "logo": "icons/nginx.svg",
-    "urls": {
-      "git": "https://github.com/nginx/nginx",
-      "cn": "http://www.nginx.cn/doc/"
-    },
-    "tags": [ "服务端", "后端" ]
-  },
-  {
     "title": "Ruby",
     "website": "https://www.ruby-lang.org/",
     "des": "一种简单快捷的面向对象（面向对象程序设计）脚本语言。",
@@ -288,6 +277,17 @@
       "cn": "https://semver.org/lang/zh-CN/"
     },
     "tags": [ "工具库" ]
+  },
+  {
+    "title": "Nginx",
+    "website": "http://nginx.org/en/",
+    "des": "是一个高性能的HTTP和反向代理服务器，也是一个IMAP/POP3/SMTP服务器。",
+    "logo": "icons/nginx.svg",
+    "urls": {
+      "git": "https://github.com/nginx/nginx",
+      "cn": "http://www.nginx.cn/doc/"
+    },
+    "tags": [ "服务端", "后端" ]
   },
   {
     "title": "Git",

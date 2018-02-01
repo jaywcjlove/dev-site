@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+  color: #d2d2d2; }
+  .footer span::after, .footer span::before {
+    content: '';
+    display: inline-block;
+    width: 35px;
+    height: 1px;
+    background-color: #dcdcdc;
+    top: -4px;
+    position: relative; }
+  .footer span::after {
+    margin-left: 5px; }
+  .footer span::before {
+    margin-right: 5px; }
+  .footer a {
+    color: #d2d2d2; }

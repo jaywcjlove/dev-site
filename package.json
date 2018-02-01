@@ -1,0 +1,26 @@
+{
+  "name": "dev-site",
+  "homepage": "https://jaywcjlove.github.io/dev-site",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "gh-pages": "^1.1.0",
+    "node-sass-chokidar": "0.0.3",
+    "npm-run-all": "^4.1.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d build",
+    "build-css": "node-sass-chokidar src/ -o src/",
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "start-js": "react-scripts start",
+    "start": "npm-run-all -p watch-css start-js",
+    "build-js": "react-scripts build",
+    "build": "npm-run-all build-css build-js",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
