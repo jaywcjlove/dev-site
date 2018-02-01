@@ -2,8 +2,38 @@
   padding: 10px;
 }
 
+.github-corner{
+  svg{
+    fill: #E1E1E1;
+    color: #000;
+    position: absolute;
+    top: 0;
+    border: 0;
+    right: 0;
+    z-index: 99;
+    width: 70px;
+    height: 70px;
+  }
+  &:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+  }
+}
+
+@keyframes octocat-wave {
+  0%,100% {
+    transform:rotate(0);
+  }
+  20%,60% {
+    transform:rotate(-25deg);
+  }
+  40%,80% {
+    transform:rotate(10deg);
+  }
+}
+
+
 .header {
-  padding: 25px 15px 10px;
+  padding: 25px 22px 10px;
   font-size: 24px;
   color: #c1c1c1;
   font-size: 18px;
@@ -18,6 +48,8 @@
     font-weight: normal;
     color: #868686;
     margin: 0 0 0 10px;
+    z-index: 999;
+    position: relative;
     span {
       display: inline-block;
       padding: 0 3px 0 3px;
@@ -51,7 +83,8 @@
   li {
     display: flex;
     flex-direction: column;
-    margin: 0 10px 10px 0;
+    flex-grow: 1;
+    margin: 0 5px 10px 5px;
     min-width: 160px;
     border-radius: 5px;
     background-color: #fff;
