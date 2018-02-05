@@ -523,6 +523,13 @@
     "tags": [ "后端", "数据库", "搜索引擎" ]
   },
   {
+    "title": "SQLite",
+    "website": "https://www.elastic.co/",
+    "des": "一个基于分布式文件存储的数据库。",
+    "logo": "icons/sqlite.svg",
+    "tags": [ "后端", "数据库" ]
+  },
+  {
     "title": "PostgreSQL",
     "website": "https://www.mysql.com/",
     "des": "对象关系型数据库管理系统",
