@@ -506,6 +506,8 @@
     "des": "关系型数据库管理系统",
     "logo": "icons/mongodb.svg",
     "urls": {
+      "git": "https://github.com/mongodb",
+      "cn": "http://www.mongodb.org.cn/"
     },
     "tags": [ "后端", "数据库" ]
   },
@@ -515,8 +517,8 @@
     "des": "一个基于分布式文件存储的数据库。",
     "logo": "icons/elasticsearch.svg",
     "urls": {
-      "git": "https://github.com/mongodb",
-      "cn": "http://www.mongodb.org.cn/"
+      "git": "https://github.com/elastic/elasticsearch",
+      "cn": "https://www.elastic.co/cn/"
     },
     "tags": [ "后端", "数据库", "搜索引擎" ]
   },
