@@ -501,6 +501,17 @@
     "tags": [ "后端", "数据库" ]
   },
   {
+    "title": "MariaDB",
+    "website": "http://mariadb.org/",
+    "des": "是MySQL的一个分支",
+    "logo": "icons/mysql.svg",
+    "urls": {
+      "git": "https://github.com/MariaDB",
+      "cn": "https://mariadb.com/kb/zh-cn/mariadb/"
+    },
+    "tags": [ "后端", "数据库" ]
+  },
+  {
     "title": "MongoDB",
     "website": "https://www.mongodb.com/",
     "des": "关系型数据库管理系统",
@@ -525,7 +536,7 @@
   {
     "title": "SQLite",
     "website": "https://www.elastic.co/",
-    "des": "一个基于分布式文件存储的数据库。",
+    "des": "一款轻型的数据库",
     "logo": "icons/sqlite.svg",
     "tags": [ "后端", "数据库" ]
   },
