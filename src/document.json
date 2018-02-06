@@ -441,6 +441,16 @@
     "tags": [ "代码质量", "测试工具", "前端" ]
   },
   {
+    "title": "Karma",
+    "website": "http://karma-runner.github.io/",
+    "des": "JavaScript单元测试框架",
+    "logo": "icons/karma.svg",
+    "urls": {
+      "git": "https://github.com/karma-runner/karma"
+    },
+    "tags": [ "代码质量", "测试工具", "前端" ]
+  },
+  {
     "title": "Chrome Extensions",
     "website": "https://developer.chrome.com/extensions",
     "des": "Chrome插件开发文档。",
