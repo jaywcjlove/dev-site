@@ -238,6 +238,17 @@
     "tags": [ "React", "前端" ]
   },
   {
+    "title": "MobX",
+    "website": "https://mobx.js.org/",
+    "des": "非常容易的状态管理工具。",
+    "logo": "icons/mobx.svg",
+    "urls": {
+      "cn": "http://cn.mobx.js.org/",
+      "git": "https://github.com/mobxjs/mobx"
+    },
+    "tags": [ "React", "前端" ]
+  },
+  {
     "title": "Vue",
     "website": "http://vuejs.org",
     "des": "轻量mvvm框架",
