@@ -313,6 +313,17 @@
     "tags": [ "工具库" ]
   },
   {
+    "title": "Subversion",
+    "website": "http://subversion.apache.org/",
+    "des": "开源的版本控制工具",
+    "logo": "icons/subversion.svg",
+    "urls": {
+      "cn": "http://svnbook.red-bean.com/nightly/zh/svn-book.html",
+      "git": "https://github.com/apache/subversion"
+    },
+    "tags": [ "工具库" ]
+  },
+  {
     "title": "jQuery",
     "website": "https://jquery.com/",
     "des": "高效精简强大的工具库",
