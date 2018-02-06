@@ -260,6 +260,17 @@
     "tags": [ "框架", "前端" ]
   },
   {
+    "title": "Backbone.js",
+    "website": "http://backbonejs.org/",
+    "des": "为复杂JS应用程序提供模型集合视图(MVC)的结构",
+    "logo": "icons/backbone-icon.svg",
+    "urls": {
+      "cn": "http://www.css88.com/doc/backbone/",
+      "git": "https://github.com/jashkenas/backbone"
+    },
+    "tags": [ "框架", "前端" ]
+  },
+  {
     "title": "Cycle.js",
     "website": "http://cyclejs.cn/",
     "des": "函数式和响应式的 JS 框架",
