@@ -21,6 +21,17 @@
     "tags": [ "服务端", "后端" ]
   },
   {
+    "title": "Rust",
+    "website": "https://www.rust-lang.org",
+    "des": "一种系统编程语言。",
+    "logo": "icons/rust.svg",
+    "urls": {
+      "git": "https://github.com/rust-lang/rust",
+      "cn": "https://www.rust-lang.org/zh-CN/"
+    },
+    "tags": [ "服务端", "后端" ]
+  },
+  {
     "title": "PHP",
     "website": "http://php.net/",
     "des": "一种通用开源脚本语言。",
