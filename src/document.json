@@ -557,6 +557,7 @@
     "des": "对象关系型数据库管理系统",
     "logo": "icons/postgresql.svg",
     "urls": {
+      "cn": "http://www.postgres.cn/document"
     },
     "tags": [ "后端", "数据库" ]
   }
