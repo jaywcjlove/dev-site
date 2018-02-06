@@ -546,7 +546,7 @@
   },
   {
     "title": "SQLite",
-    "website": "https://www.elastic.co/",
+    "website": "http://www.sqlite.org/",
     "des": "一款轻型的数据库",
     "logo": "icons/sqlite.svg",
     "tags": [ "后端", "数据库" ]
