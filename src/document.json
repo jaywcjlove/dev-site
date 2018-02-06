@@ -58,6 +58,7 @@
     "des": "一种面向对象的解释型计算机程序设计语言。",
     "logo": "icons/python.svg",
     "urls": {
+      "cn": "http://python.usyiyi.cn/translate/python_352/index.html"
     },
     "tags": [ "服务端", "后端" ]
   },
