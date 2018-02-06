@@ -527,7 +527,7 @@
     "title": "MariaDB",
     "website": "http://mariadb.org/",
     "des": "是MySQL的一个分支",
-    "logo": "icons/mysql.svg",
+    "logo": "icons/mariadb.svg",
     "urls": {
       "git": "https://github.com/MariaDB",
       "cn": "https://mariadb.com/kb/zh-cn/mariadb/"
