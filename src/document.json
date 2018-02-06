@@ -282,6 +282,18 @@
     "tags": [ "框架", "前端" ]
   },
   {
+    "title": "socket.io",
+    "website": "https://socket.io/",
+    "des": "实现了基于事件的实时双向通信",
+    "logo": "icons/socket.io.svg",
+    "urls": {
+      "cn": "http://javacheng.oschina.io/socket.io/",
+      "git": "https://github.com/socketio/socket.io",
+      "twitter": "https://twitter.com/SocketIO"
+    },
+    "tags": [ "框架", "前端" ]
+  },
+  {
     "title": "EditorConfig",
     "website": "http://editorconfig.org/",
     "des": "代码格式配置管理。",
