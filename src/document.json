@@ -431,6 +431,16 @@
     "tags": [ "代码质量", "测试工具", "前端" ]
   },
   {
+    "title": "Jasmine",
+    "website": "https://jasmine.github.io/",
+    "des": "JavaScript单元测试框架",
+    "logo": "icons/jasmine.svg",
+    "urls": {
+      "git": "https://github.com/jasmine/jasmine"
+    },
+    "tags": [ "代码质量", "测试工具", "前端" ]
+  },
+  {
     "title": "Chrome Extensions",
     "website": "https://developer.chrome.com/extensions",
     "des": "Chrome插件开发文档。",
