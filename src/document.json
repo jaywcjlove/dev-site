@@ -358,6 +358,16 @@
     "tags": [ "工具库" ]
   },
   {
+    "title": "Puppeteer",
+    "website": "https://github.com/GoogleChrome/puppeteer",
+    "des": "无头Chrome浏览器",
+    "logo": "icons/puppeteer.png",
+    "urls": {
+      "git": "https://github.com/GoogleChrome/puppeteer"
+    },
+    "tags": [ "工具库", "测试工具" ]
+  },
+  {
     "title": "jQuery",
     "website": "https://jquery.com/",
     "des": "高效精简强大的工具库",
