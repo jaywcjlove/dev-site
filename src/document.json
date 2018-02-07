@@ -177,7 +177,7 @@
     "des": "快速极简的Web后台框架",
     "logo": "icons/express.svg",
     "urls": {
-      "cn": "http://expressjs.com/zh-cn/",
+      "cn": "http://www.expressjs.com.cn/",
       "git": "https://github.com/expressjs/express"
     },
     "tags": [ "框架", "后端" ]
