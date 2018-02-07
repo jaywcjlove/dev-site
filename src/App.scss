@@ -75,11 +75,12 @@
   color: #969696;
 }
 
+
 .lists {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  padding: 0 15px;
+  padding: 0 10px;
   li {
     display: flex;
     flex-direction: column;
@@ -92,6 +93,11 @@
     transition: all .3s;
     &:hover {
       box-shadow: 0 0px 5px rgba(0, 0, 0, 0.6);
+      .star:not(:global(.active)) svg{
+        animation-duration: 1s;  
+        animation-fill-mode: both;
+        animation: twinkling .6s infinite ease-in-out;
+      }
     }
     a {
       color: #333;
@@ -102,6 +108,18 @@
     }
   }
 }
+@keyframes twinkling{
+  0%{
+    fill: #D64B24;
+  }
+  50%{
+    fill: #e0e0e0;
+  }
+  100%{
+    fill: #D64B24;
+  }
+}  
+
 
 .itemHeader {
   flex: 1;
