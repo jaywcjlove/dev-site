@@ -10,7 +10,7 @@
 
 ## 提交数据
 
-你可增加未收录的文档网站，可通过 [Issue](https://github.com/jaywcjlove/dev-site/issues) 告诉我，或者提交一个 `Pull requests`, 提交的时候注意，将图片放入 `public/icons` 目录中，对应网站其它信息在 [src/document.json](./src/document.json) 中添加，欢迎提交文档网站。
+可通过 [Issue](https://github.com/jaywcjlove/dev-site/issues) 告诉我，或者提交一个 `Pull requests`，增加没有收录的文档网站，提交 `Pull requests` 的时候注意，将图片放入 `public/icons` 目录中，对应网站其它信息在 [src/document.json](./src/document.json) 中添加，欢迎提交文档网站。
 
 ## Chrome插件
 
