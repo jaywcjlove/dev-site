@@ -336,6 +336,16 @@
     "tags": [ "工具库" ]
   },
   {
+    "title": "JSDoc",
+    "website": "http://usejsdoc.org/",
+    "des": "根据规范化的注释、自动生成接口文档。",
+    "urls": {
+      "git": "https://github.com/jsdoc3/jsdoc",
+      "cn": "http://www.css88.com/doc/jsdoc/index.html"
+    },
+    "tags": [ "工具库" ]
+  },
+  {
     "title": "Nginx",
     "website": "http://nginx.org/en/",
     "des": "是一个高性能的HTTP和反向代理服务器，也是一个IMAP/POP3/SMTP服务器。",
