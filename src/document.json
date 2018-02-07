@@ -238,6 +238,17 @@
     "tags": [ "React", "前端" ]
   },
   {
+    "title": "redux-saga",
+    "website": "https://redux-saga.js.org/",
+    "des": "一个用于管理 Redux 应用异步操作中间件。",
+    "logo": "icons/redux-saga.svg",
+    "urls": {
+      "cn": "https://redux-saga-in-chinese.js.org/",
+      "git": "https://github.com/redux-saga/redux-saga"
+    },
+    "tags": [ "React", "前端" ]
+  },
+  {
     "title": "MobX",
     "website": "https://mobx.js.org/",
     "des": "非常容易的状态管理工具。",
