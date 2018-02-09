@@ -13,7 +13,7 @@
     "react-scripts": "1.1.0"
   },
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "npm run build && gh-pages -d build",
     "build-css": "node-sass-chokidar src/ -o src/",
     "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
     "start-js": "react-scripts start",
