@@ -103,14 +103,19 @@ class App extends Component {
         <ul className="lists">
           {this.state.lists.map((item, idx) => {
             const urls = [];
-            for (const i in item.urls) {
-              if (Object.prototype.hasOwnProperty.call(item.urls, i)) {
+            for (const key in item.urls) {
+              if (Object.prototype.hasOwnProperty.call(item.urls, key)) {
                 let icon = '';
-                if (i === 'git') icon = github;
-                else if (i === 'cn') icon = zhHans;
-                else icon = website;
+                let title= key
+                if (key === 'git') {
+                  icon = github;
+                  title = 'Git 仓库';
+                } else if (key === 'cn') {
+                  icon = zhHans;
+                  title = '中文网站';
+                } else icon = website;
                 urls.push(
-                  <a key={i} href={item.urls[i]}>{icon}</a>
+                  <a key={key} title={title} href={item.urls[key]}>{icon}</a>
                 );
               }
             }

@@ -212,7 +212,7 @@
     "urls": {
       "git": "https://github.com/facebook/react-native",
       "cn": "https://reactnative.cn",
-      "tools": "https://www.native.directory/"
+      "React Native libraries": "https://www.native.directory/"
     },
     "tags": [ "框架", "React", "前端" ]
   },
