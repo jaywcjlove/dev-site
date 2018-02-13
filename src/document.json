@@ -85,6 +85,16 @@
     "tags": [ "服务端", "后端" ]
   },
   {
+    "title": ".NET",
+    "website": "https://www.microsoft.com/net/download/windows",
+    "des": "是 Microsoft XML Web services 平台",
+    "logo": "icons/dotnet.svg",
+    "urls": {
+      "cn": "https://docs.microsoft.com/zh-cn/dotnet/welcome"
+    },
+    "tags": [ "服务端", "后端" ]
+  },
+  {
     "title": "JavaScript",
     "website": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     "des": "是一种轻量级解释或JIT编译型的编程语言。",
