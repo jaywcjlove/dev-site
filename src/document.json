@@ -1,5 +1,16 @@
 [
   {
+    "title": "Awesome Mac",
+    "website": "http://wangchujiang.com/awesome-mac/index.zh.html",
+    "des": "这里收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。",
+    "logo": "https://images.apple.com/v/macbook-pro/n/images/overview/performance_medium.jpg",
+    "urls": {
+      "cn": "http://wangchujiang.com/awesome-mac/index.zh.html",
+      "git": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    "tags": [ "工具" ]
+  },
+  {
     "title": "aliApp",
     "website": "https://docs.alipay.com/mini/framework/app",
     "des": "支付宝小程序是一种全新的开放模式，它运行在支付宝客户端，可以被便捷地获取和传播，为终端用户提供更优的用户体验。",
