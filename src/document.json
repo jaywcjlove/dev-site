@@ -1,8 +1,30 @@
 [
   {
+    "title": "Next.js(React)",
+    "website": "https://learnnextjs.com/basics/getting-started",
+    "des": "Next.js是一个基于React的一个服务端渲染简约框架。它使用React语法，可以很好的实现代码的模块化，有利于代码的开发和维护。",
+    "logo": "icons/next-logo.png",
+    "urls": {
+      "cn": "https://zeit.co/docs",
+      "git": "https://github.com/zeit/next.js"
+    },
+    "tags": [ "前端" ]
+  },
+  {
+    "title": "Nuxt.js(Vue)",
+    "website": "https://nuxtjs.org/",
+    "des": "Nuxt.js 是一个基于 Vue.js 的通用应用框架。通过对客户端/服务端基础架构的抽象组织，Nuxt.js 主要关注的是应用的 UI渲染。",
+    "logo": "icons/nuxt-logo.png",
+    "urls": {
+      "cn": "https://zh.nuxtjs.org/",
+      "git": "https://github.com/nuxt"
+    },
+    "tags": [ "前端" ]
+  },
+  {
     "title": "Nest.js",
     "website": "https://docs.nestjs.com/",
-    "des": "用于构建高效且可伸缩Web应用程序的渐进式 Node.js 框架。",
+    "des": "是基于 Express、socket.io 封装，用于构建高效且可伸缩Web应用程序的渐进式 Node.js 后端开发框架。",
     "logo": "icons/nest-logo.svg",
     "urls": {
       "cn": "https://docs.nestjs.cn/",
