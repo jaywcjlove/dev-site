@@ -502,7 +502,7 @@
   },
   {
     "title": "PostgreSQL",
-    "website": "https://www.mysql.com/",
+    "website": "https://www.postgresql.org/",
     "des": "对象关系型数据库管理系统",
     "logo": "icons/postgresql.svg",
     "urls": {
