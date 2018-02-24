@@ -204,6 +204,17 @@
     "tags": [ "框架", "后端" ]
   },
   {
+    "title": "Electron",
+    "website": "https://electronjs.org/",
+    "des": "使用JS和React构建原生移动应用程序",
+    "logo": "icons/electron.svg",
+    "urls": {
+      "git": "https://github.com/electron",
+      "cn": "https://electronjs.org/"
+    },
+    "tags": [ "框架", "桌面客户端", "前端" ]
+  },
+  {
     "title": "React",
     "website": "https://reactjs.org",
     "des": "用于构建UI的JS库",
