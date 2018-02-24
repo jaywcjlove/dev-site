@@ -21,6 +21,87 @@
     "tags": [ "服务端", "后端" ]
   },
   {
+    "title": "Kotlin",
+    "website": "http://kotlinlang.org/",
+    "des": "Statically typed programming language for modern multiplatform applications",
+    "logo": "icons/gopher.svg",
+    "urls": {
+      "git": "https://github.com/JetBrains/kotlin",
+      "cn": "https://www.kotlincn.net/",
+      "try": "https://try.kotlinlang.org/"
+    },
+    "tags": [ "服务端", "前端", "Android" ]
+  },
+  {
+    "title": "mongoose",
+    "website": "http://mongoosejs.com/docs/guide.html",
+    "des": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.",
+    "logo": "icons/gopher.svg",
+    "urls": {
+      "git": "https://github.com/Automattic/mongoose",
+      "cn": "http://www.nodeclass.com/api/mongoose.html",
+      "community": "https://stackoverflow.com/questions/tagged/mongoose"
+    },
+    "tags": [ "服务端", "后端", "数据库" ]
+  },
+  {
+    "title": "libuv",
+    "website": "http://libuv.org/",
+    "des": "Asynchronous I/O made simple.libuv is a multi-platform support library with a focus on asynchronous I/O.",
+    "logo": "icons/gopher.svg",
+    "urls": {
+      "git": "https://github.com/libuv/libuv",
+      "cn": "http://luohaha.github.io/Chinese-uvbook/",
+      "doc":"http://docs.libuv.org/en/v1.x/#documentation"
+    },
+    "tags": [ "工具库", "后端", "libuv" ]
+  },
+  {
+    "title": "Pinus",
+    "website": "http://pinus.io/",
+    "des": "让做游戏变得更简单.一个基于Node.js的分布式水平扩展游戏服务器轻量级强大框架 powered by TypeScript.",
+    "logo": "icons/gopher.svg",
+    "urls": {
+      "git": "https://github.com/node-pinus/pinus",
+      "cn": "http://pinus.io/zh-cn/introduce.html"
+    },
+    "tags": [ "服务端", "后端", "框架" ]
+  },
+  {
+    "title": "C/C++",
+    "website": "cppreference.com",
+    "des": "C/C++",
+    "logo": "icons/gopher.svg",
+    "urls": {
+      "cn": "http://zh.cppreference.com/w/",
+      "anoher":"http://www.cplusplus.com/"
+    },
+    "tags": [ "C/C++" ]
+  },
+  {
+    "title": "cocos",
+    "website": "http://www.cocos.com/",
+    "des": "Cocos Creator 以内容创作为核心的一体化游戏开发工具",
+    "logo": "icons/gopher.svg",
+    "urls": {
+      "download": "http://www.cocos.com/download",
+      "forum": "http://forum.cocos.com/",
+      "docs": "http://www.cocos.com/docs/",
+      "git": "https://github.com/cocos2d/cocos2d-x"
+    },
+    "tags": [ "cocos", "前端" ]
+  },
+  {
+    "title": "Learn X in Y minutes",
+    "website": "https://learnxinyminutes.com/",
+    "des": "Take a whirlwind tour of your next favorite language. Community-driven!",
+    "logo": "icons/gopher.svg",
+    "urls": {
+      "git": "https://github.com/adambard/learnxinyminutes-docs"
+    },
+    "tags": [ "工具库" ]
+  },
+  {
     "title": "Rust",
     "website": "https://www.rust-lang.org",
     "des": "一种系统编程语言。",
