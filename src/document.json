@@ -24,7 +24,7 @@
     "title": "Kotlin",
     "website": "http://kotlinlang.org/",
     "des": "Statically typed programming language for modern multiplatform applications",
-    "logo": "icons/gopher.svg",
+    "logo": "icons/kotlin.svg",
     "urls": {
       "git": "https://github.com/JetBrains/kotlin",
       "cn": "https://www.kotlincn.net/",
@@ -33,22 +33,10 @@
     "tags": [ "服务端", "前端", "Android" ]
   },
   {
-    "title": "mongoose",
-    "website": "http://mongoosejs.com/docs/guide.html",
-    "des": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.",
-    "logo": "icons/gopher.svg",
-    "urls": {
-      "git": "https://github.com/Automattic/mongoose",
-      "cn": "http://www.nodeclass.com/api/mongoose.html",
-      "community": "https://stackoverflow.com/questions/tagged/mongoose"
-    },
-    "tags": [ "服务端", "后端", "数据库" ]
-  },
-  {
     "title": "libuv",
     "website": "http://libuv.org/",
-    "des": "Asynchronous I/O made simple.libuv is a multi-platform support library with a focus on asynchronous I/O.",
-    "logo": "icons/gopher.svg",
+    "des": "多平台支持库，专注于异步I/O。",
+    "logo": "icons/libuv.png",
     "urls": {
       "git": "https://github.com/libuv/libuv",
       "cn": "http://luohaha.github.io/Chinese-uvbook/",
@@ -59,8 +47,8 @@
   {
     "title": "Pinus",
     "website": "http://pinus.io/",
-    "des": "让做游戏变得更简单.一个基于Node.js的分布式水平扩展游戏服务器轻量级强大框架 powered by TypeScript.",
-    "logo": "icons/gopher.svg",
+    "des": "基于Node.js的分布式水平扩展游戏服务器轻量级框架。",
+    "logo": "icons/pinus.png",
     "urls": {
       "git": "https://github.com/node-pinus/pinus",
       "cn": "http://pinus.io/zh-cn/introduce.html"
@@ -69,9 +57,9 @@
   },
   {
     "title": "C/C++",
-    "website": "cppreference.com",
+    "website": "http://en.cppreference.com/w/",
     "des": "C/C++",
-    "logo": "icons/gopher.svg",
+    "logo": "icons/cppreference.png",
     "urls": {
       "cn": "http://zh.cppreference.com/w/",
       "anoher":"http://www.cplusplus.com/"
@@ -79,14 +67,12 @@
     "tags": [ "C/C++" ]
   },
   {
-    "title": "cocos",
-    "website": "http://www.cocos.com/",
+    "title": "Cocos",
+    "website": "http://www.cocos2d-x.org/",
     "des": "Cocos Creator 以内容创作为核心的一体化游戏开发工具",
-    "logo": "icons/gopher.svg",
+    "logo": "icons/cocos2d.png",
     "urls": {
-      "download": "http://www.cocos.com/download",
-      "forum": "http://forum.cocos.com/",
-      "docs": "http://www.cocos.com/docs/",
+      "cn": "http://www.cocos.com/",
       "git": "https://github.com/cocos2d/cocos2d-x"
     },
     "tags": [ "cocos", "前端" ]
@@ -94,8 +80,7 @@
   {
     "title": "Learn X in Y minutes",
     "website": "https://learnxinyminutes.com/",
-    "des": "Take a whirlwind tour of your next favorite language. Community-driven!",
-    "logo": "icons/gopher.svg",
+    "des": "快速浏览你的下一个最喜欢的语言。",
     "urls": {
       "git": "https://github.com/adambard/learnxinyminutes-docs"
     },
@@ -721,6 +706,17 @@
       "cn": "https://mariadb.com/kb/zh-cn/mariadb/"
     },
     "tags": [ "后端", "数据库" ]
+  },
+  {
+    "title": "mongoose",
+    "website": "http://mongoosejs.com/docs/guide.html",
+    "des": "异步环境中工作的MongoDB对象建模工具。",
+    "urls": {
+      "git": "https://github.com/Automattic/mongoose",
+      "cn": "http://www.nodeclass.com/api/mongoose.html",
+      "community": "https://stackoverflow.com/questions/tagged/mongoose"
+    },
+    "tags": [ "服务端", "后端", "数据库" ]
   },
   {
     "title": "MongoDB",
