@@ -711,6 +711,7 @@
     "title": "mongoose",
     "website": "http://mongoosejs.com/docs/guide.html",
     "des": "异步环境中工作的MongoDB对象建模工具。",
+    "logo": "icons/mongodb.svg",
     "urls": {
       "git": "https://github.com/Automattic/mongoose",
       "cn": "http://www.nodeclass.com/api/mongoose.html",
