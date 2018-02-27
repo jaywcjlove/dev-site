@@ -1,5 +1,16 @@
 [
   {
+    "title": "NW.js",
+    "website": "https://nwjs.io/",
+    "des": "NW.js 让您可以使用WEB(html5、css3、javascript)技术，包括Node.js及其所有modules来开发桌面应用的一种新方式。她的前身是 “node-webkit” 项目。",
+    "logo": "icons/nwjs-logo.png",
+    "urls": {
+      "cn": "http://liuxp.me/nwjs/",
+      "git": "https://github.com/nwjs/nw.js"
+    },
+    "tags": [ "客户端" ]
+  },
+  {
     "title": "Knex.js",
     "website": "http://knexjs.org/",
     "des": "knex.js是一款开箱即用的SQL查询构造器，支持各种数据库的查询构建。API设计精巧易用，自带管道接口等特性，并且还支持事务。",
