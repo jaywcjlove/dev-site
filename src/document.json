@@ -292,6 +292,16 @@
     "tags": [ "框架", "React", "前端" ]
   },
   {
+    "title": "Flutter",
+    "website": "https://flutter.io/",
+    "des": "一种新型的方式,用于创建高性能、跨平台的移动应用。",
+    "logo": "icons/flutter.png",
+    "urls": {
+      "git": "https://github.com/flutter/flutter"
+    },
+    "tags": [ "框架", "移动端", "前端" ]
+  },
+  {
     "title": "React Native",
     "website": "http://facebook.github.io/react-native/",
     "des": "使用JS和React构建原生移动应用程序",
