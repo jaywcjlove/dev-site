@@ -2,7 +2,7 @@
   {
     "title": "NW.js",
     "website": "https://nwjs.io/",
-    "des": "NW.js 让您可以使用WEB(html5、css3、javascript)技术，包括Node.js及其所有modules来开发桌面应用的一种新方式。她的前身是 “node-webkit” 项目。",
+    "des": "NW.js 可以使用WEB(html5、css3、js)技术，包括Node.js来开发桌面应用。前身是 “node-webkit” 项目。",
     "logo": "icons/nwjs-logo.png",
     "urls": {
       "cn": "http://liuxp.me/nwjs/",
