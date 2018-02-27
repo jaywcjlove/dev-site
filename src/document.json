@@ -1,5 +1,15 @@
 [
   {
+    "title": "Knex.js",
+    "website": "http://knexjs.org/",
+    "des": "knex.js是一款开箱即用的SQL查询构造器，支持各种数据库的查询构建。API设计精巧易用，自带管道接口等特性，并且还支持事务。",
+    "logo": "icons/knex-logo.png",
+    "urls": {
+      "git": "https://github.com/tgriesser/knex"
+    },
+    "tags": [ "后端" ]
+  },
+  {
     "title": "Pandora.js",
     "website": "http://www.midwayjs.org/pandora/zh-cn/",
     "des": "是一个可管理、可度量、可追踪的 Node.js 应用管理器。",
