@@ -192,21 +192,15 @@
       }
     }
   }
-}
-
-.zhHans {
-  circle, path {
-    color: #606467;
-  }
-  path {
-    fill: #fff;
-  }
-  &:hover {
-    circle {
+  .zhhans {
+    &:hover {
       fill: #D64B24;
-    }
-    path {
-      fill: #FBDC00;
+      circle {
+        fill: #D64B24;
+      }
+      path {
+        fill: #FBDC00;
+      }
     }
   }
 }
