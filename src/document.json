@@ -173,6 +173,72 @@
     "tags": [ "服务端", "后端" ]
   },
   {
+    "title": "Kotlin",
+    "website": "http://kotlinlang.org/",
+    "des": "Statically typed programming language for modern multiplatform applications",
+    "logo": "icons/kotlin.svg",
+    "urls": {
+      "git": "https://github.com/JetBrains/kotlin",
+      "cn": "https://www.kotlincn.net/",
+      "try": "https://try.kotlinlang.org/"
+    },
+    "tags": [ "服务端", "前端", "Android" ]
+  },
+  {
+    "title": "libuv",
+    "website": "http://libuv.org/",
+    "des": "多平台支持库，专注于异步I/O。",
+    "logo": "icons/libuv.png",
+    "urls": {
+      "git": "https://github.com/libuv/libuv",
+      "cn": "http://luohaha.github.io/Chinese-uvbook/",
+      "doc":"http://docs.libuv.org/en/v1.x/#documentation"
+    },
+    "tags": [ "工具库", "后端", "libuv" ]
+  },
+  {
+    "title": "Pinus",
+    "website": "http://pinus.io/",
+    "des": "基于Node.js的分布式水平扩展游戏服务器轻量级框架。",
+    "logo": "icons/pinus.png",
+    "urls": {
+      "git": "https://github.com/node-pinus/pinus",
+      "cn": "http://pinus.io/zh-cn/introduce.html"
+    },
+    "tags": [ "服务端", "后端", "框架" ]
+  },
+  {
+    "title": "C/C++",
+    "website": "http://en.cppreference.com/w/",
+    "des": "C/C++",
+    "logo": "icons/c++.svg",
+    "urls": {
+      "cn": "http://zh.cppreference.com/w/",
+      "anoher":"http://www.cplusplus.com/"
+    },
+    "tags": [ "C/C++" ]
+  },
+  {
+    "title": "Cocos",
+    "website": "http://www.cocos2d-x.org/",
+    "des": "Cocos Creator 以内容创作为核心的一体化游戏开发工具",
+    "logo": "icons/cocos2d.png",
+    "urls": {
+      "cn": "http://www.cocos.com/",
+      "git": "https://github.com/cocos2d/cocos2d-x"
+    },
+    "tags": [ "cocos", "前端" ]
+  },
+  {
+    "title": "Learn X in Y minutes",
+    "website": "https://learnxinyminutes.com/",
+    "des": "快速浏览你的下一个最喜欢的语言。",
+    "urls": {
+      "git": "https://github.com/adambard/learnxinyminutes-docs"
+    },
+    "tags": [ "工具库" ]
+  },
+  {
     "title": "Rust",
     "website": "https://www.rust-lang.org",
     "des": "一种系统编程语言。",
@@ -356,6 +422,17 @@
     "tags": [ "框架", "后端" ]
   },
   {
+    "title": "Electron",
+    "website": "https://electronjs.org/",
+    "des": "使用JS和React构建原生移动应用程序",
+    "logo": "icons/electron.svg",
+    "urls": {
+      "git": "https://github.com/electron",
+      "cn": "https://electronjs.org/"
+    },
+    "tags": [ "框架", "桌面客户端", "前端" ]
+  },
+  {
     "title": "React",
     "website": "https://reactjs.org",
     "des": "用于构建UI的JS库",
@@ -365,6 +442,16 @@
       "git": "https://github.com/facebook/react/"
     },
     "tags": [ "框架", "React", "前端" ]
+  },
+  {
+    "title": "Flutter",
+    "website": "https://flutter.io/",
+    "des": "一种新型的方式,用于创建高性能、跨平台的移动应用。",
+    "logo": "icons/flutter.png",
+    "urls": {
+      "git": "https://github.com/flutter/flutter"
+    },
+    "tags": [ "框架", "移动端", "前端" ]
   },
   {
     "title": "React Native",
@@ -781,6 +868,18 @@
       "cn": "https://mariadb.com/kb/zh-cn/mariadb/"
     },
     "tags": [ "后端", "数据库" ]
+  },
+  {
+    "title": "mongoose",
+    "website": "http://mongoosejs.com/docs/guide.html",
+    "des": "异步环境中工作的MongoDB对象建模工具。",
+    "logo": "icons/mongodb.svg",
+    "urls": {
+      "git": "https://github.com/Automattic/mongoose",
+      "cn": "http://www.nodeclass.com/api/mongoose.html",
+      "community": "https://stackoverflow.com/questions/tagged/mongoose"
+    },
+    "tags": [ "服务端", "后端", "数据库" ]
   },
   {
     "title": "MongoDB",

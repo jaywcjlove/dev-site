@@ -108,13 +108,11 @@
   .logo h4 {
     padding: 0 10px 0 5px;
     margin: 0;
-    line-height: 16px;
-    height: 16px;
+    line-height: 29px;
     vertical-align: middle;
     flex: 1; }
   .logo img {
     height: 23px;
-    min-width: 23px;
     min-height: 23px;
     vertical-align: middle;
     border-radius: 3px;
@@ -152,15 +150,9 @@
       cursor: pointer; }
       .bottomBar .star svg:hover {
         fill: #fbb601; }
-
-.zhHans circle, .zhHans path {
-  color: #606467; }
-
-.zhHans path {
-  fill: #fff; }
-
-.zhHans:hover circle {
-  fill: #D64B24; }
-
-.zhHans:hover path {
-  fill: #FBDC00; }
+  .bottomBar .zhhans:hover {
+    fill: #D64B24; }
+    .bottomBar .zhhans:hover circle {
+      fill: #D64B24; }
+    .bottomBar .zhhans:hover path {
+      fill: #FBDC00; }
