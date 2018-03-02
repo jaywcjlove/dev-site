@@ -1,157 +1,5 @@
 [
   {
-    "title": "Egg.js",
-    "website": "https://eggjs.org/zh-cn/",
-    "des": "Egg.js，为企业级框架和应用而生，是阿里开源的企业级 Node.js 框架。",
-    "logo": "icons/egg-logo.svg",
-    "urls": {
-      "cn": "https://eggjs.org/zh-cn/intro/",
-      "git": "https://github.com/eggjs/egg/"
-    },
-    "tags": [ "后端" ]
-  },
-  {
-    "title": "Let's Encrypt",
-    "website": "https://letsencrypt.org/",
-    "des": "Let's Encrypt是一个免费并且开源的CA，且已经获得Mozilla、微软等主要浏览器厂商的根授信。",
-    "logo": "icons/letsencrypt-logo.svg",
-    "urls": {
-      "cn": "https://letsencrypt.org/docs/"
-    },
-    "tags": [ "工具" ]
-  },
-  {
-    "title": "NW.js",
-    "website": "https://nwjs.io/",
-    "des": "NW.js 可以使用WEB(html5、css3、js)技术，包括Node.js来开发桌面应用。前身是 “node-webkit” 项目。",
-    "logo": "icons/nwjs-logo.png",
-    "urls": {
-      "cn": "http://liuxp.me/nwjs/",
-      "git": "https://github.com/nwjs/nw.js"
-    },
-    "tags": [ "客户端" ]
-  },
-  {
-    "title": "Knex.js",
-    "website": "http://knexjs.org/",
-    "des": "knex.js是一款开箱即用的SQL查询构造器，支持各种数据库的查询构建。API设计精巧易用，自带管道接口等特性，并且还支持事务。",
-    "logo": "icons/knex-logo.png",
-    "urls": {
-      "git": "https://github.com/tgriesser/knex"
-    },
-    "tags": [ "后端" ]
-  },
-  {
-    "title": "Pandora.js",
-    "website": "http://www.midwayjs.org/pandora/zh-cn/",
-    "des": "是一个可管理、可度量、可追踪的 Node.js 应用管理器。",
-    "logo": "icons/pandorajs-logo.png",
-    "urls": {
-      "cn": "http://www.midwayjs.org/pandora/zh-cn/",
-      "git": "https://github.com/midwayjs/pandora/"
-    },
-    "tags": [ "前端", "后端" ]
-  },
-  {
-    "title": "Next.js(React)",
-    "website": "https://learnnextjs.com/basics/getting-started",
-    "des": "Next.js是一个基于React的一个服务端渲染简约框架。",
-    "logo": "icons/next-logo.png",
-    "urls": {
-      "cn": "https://zeit.co/docs",
-      "git": "https://github.com/zeit/next.js"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "Nuxt.js(Vue)",
-    "website": "https://nuxtjs.org/",
-    "des": "Nuxt.js 是一个基于 Vue.js 的通用应用框架。是 Next.js 的Vue版本。",
-    "logo": "icons/nuxt-logo.png",
-    "urls": {
-      "cn": "https://zh.nuxtjs.org/",
-      "git": "https://github.com/nuxt"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "Nest.js",
-    "website": "https://docs.nestjs.com/",
-    "des": "是基于 Express、socket.io 封装，用于构建高效且可伸缩Web应用程序的渐进式 Node.js 后端开发框架。",
-    "logo": "icons/nest-logo.svg",
-    "urls": {
-      "cn": "https://docs.nestjs.cn/",
-      "git": "https://github.com/nestjs/nest"
-    },
-    "tags": [ "前端", "后端" ]
-  },
-  {
-    "title": "Awesome Mac",
-    "website": "http://wangchujiang.com/awesome-mac/index.zh.html",
-    "des": "这里收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。",
-    "logo": "https://images.apple.com/v/macbook-pro/n/images/overview/performance_medium.jpg",
-    "urls": {
-      "cn": "http://wangchujiang.com/awesome-mac/index.zh.html",
-      "git": "https://github.com/jaywcjlove/awesome-mac"
-    },
-    "tags": [ "工具" ]
-  },
-  {
-    "title": "aliApp",
-    "website": "https://docs.alipay.com/mini/framework/app",
-    "des": "支付宝小程序是一种全新的开放模式，它运行在支付宝客户端，可以被便捷地获取和传播，为终端用户提供更优的用户体验。",
-    "logo": "https://gw.alipayobjects.com/zos/skylark/public/files/c25cea0ef4ed546f3f415ec0b9ac7ce0.png",
-    "urls": {
-      "cn": "http://link.devnode.cn/",
-      "git": "https://github.com/webcoding/link"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "wxApp",
-    "website": "https://mp.weixin.qq.com/debug/wxadoc/dev/api/",
-    "des": "微信小程序是一种全新的连接用户与服务的方式，它可以在微信内被便捷地获取和传播，同时具有出色的使用体验。",
-    "logo": "https://mp.weixin.qq.com/debug/wxadoc/dev/image/demo.jpg",
-    "urls": {
-      "cn": "http://link.devnode.cn/",
-      "git": "https://github.com/webcoding/link"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "WePY",
-    "website": "https://tencent.github.io/wepy/document.html",
-    "des": "让小程序支持组件化开发的框架。",
-    "logo": "https://tencent.github.io/wepy/img/fatures/icon_feature_component.svg",
-    "urls": {
-      "cn": "https://tencent.github.io/wepy/",
-      "git": "https://github.com/Tencent/wepy"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "ZanUI-WeApp",
-    "website": "https://github.com/youzan/zanui-weapp",
-    "des": "ZanUI-WeApp是有赞移动 Web UI 规范 ZanUI 的小程序现实版本，结合了微信的视觉规范，为用户提供更加统一的使用感受。",
-    "logo": "https://camo.githubusercontent.com/b3e6c0c62d421ef5df9d7e9b8366e6287c0464b7/68747470733a2f2f696d672e797a63646e2e636e2f7075626c69635f66696c65732f323031372f31302f33302f35353464643934306562316132363964346163393133336537386165333231662e6a70673f696d61676556696577322f322f772f3330302f682f333030",
-    "urls": {
-      "cn": "http://link.devnode.cn/",
-      "git": "https://github.com/youzan/zanui-weapp"
-    },
-    "tags": [ "前端" ]
-  },
-  {
-    "title": "ESLint",
-    "website": "https://eslint.org/",
-    "des": "A fully pluggable tool for identifying and reporting on patterns in JavaScript. ",
-    "logo": "http://eslint.cn/img/logo.svg",
-    "urls": {
-      "cn": "http://eslint.cn/",
-      "git": "https://github.com/eslint/eslint"
-    },
-    "tags": [ "前端" ]
-  },
-  {
     "title": "Node.js",
     "website": "https://nodejs.org/en/",
     "des": "是一个基于 Chrome V8 引擎的 JavaScript 运行环境。",
@@ -422,6 +270,19 @@
     "tags": [ "框架", "后端" ]
   },
   {
+    "title": "Egg.js",
+    "website": "https://eggjs.org/zh-cn/",
+    "des": "阿里开源的企业级 Node.js 框架。",
+    "logo": "icons/egg-logo.svg",
+    "urls": {
+      "cn": "https://eggjs.org/zh-cn/intro/",
+      "git": "https://github.com/eggjs/egg/"
+    },
+    "tags": [
+      "后端"
+    ]
+  },
+  {
     "title": "Electron",
     "website": "https://electronjs.org/",
     "des": "使用JS和React构建原生移动应用程序",
@@ -431,6 +292,57 @@
       "cn": "https://electronjs.org/"
     },
     "tags": [ "框架", "桌面客户端", "前端" ]
+  },
+  {
+    "title": "NW.js",
+    "website": "https://nwjs.io/",
+    "des": "使用WEB(html5、css3、js)技术，包括Node.js来开发桌面应用。",
+    "logo": "icons/nwjs-logo.png",
+    "urls": {
+      "cn": "http://liuxp.me/nwjs/",
+      "git": "https://github.com/nwjs/nw.js"
+    },
+    "tags": [ "框架", "客户端", "前端" ]
+  },
+  {
+    "title": "Next.js(React)",
+    "website": "https://zeit.co/docs",
+    "des": "一个基于React的一个服务端渲染简约框架。",
+    "logo": "icons/next-logo.png",
+    "urls": {
+      "cn": "https://learnnextjs.com/",
+      "git": "https://github.com/zeit/next.js"
+    },
+    "tags": [
+      "前端"
+    ]
+  },
+  {
+    "title": "Nuxt.js(Vue)",
+    "website": "https://nuxtjs.org/",
+    "des": "一个基于 Vue.js 的通用应用框架。",
+    "logo": "icons/nuxt-logo.png",
+    "urls": {
+      "cn": "https://zh.nuxtjs.org/",
+      "git": "https://github.com/nuxt"
+    },
+    "tags": [
+      "前端"
+    ]
+  },
+  {
+    "title": "Nest.js",
+    "website": "https://docs.nestjs.com/",
+    "des": "是基于 Express 封装，用于构建高效且可伸缩 Node.js 后端开发框架。",
+    "logo": "icons/nest-logo.svg",
+    "urls": {
+      "cn": "https://docs.nestjs.cn/",
+      "git": "https://github.com/nestjs/nest"
+    },
+    "tags": [
+      "前端",
+      "后端"
+    ]
   },
   {
     "title": "React",
@@ -839,6 +751,16 @@
     "tags": [ "后端" ]
   },
   {
+    "title": "Knex.js",
+    "website": "http://knexjs.org/",
+    "des": "一款开箱即用的SQL查询构造器，支持各种数据库的查询构建。",
+    "logo": "icons/knex-logo.png",
+    "urls": {
+      "git": "https://github.com/tgriesser/knex"
+    },
+    "tags": [ "后端" ]
+  },
+  {
     "title": "Redis",
     "website": "https://redis.io/",
     "des": "一个开源的使用ANSI C语言编写的内存数据库。",
@@ -919,5 +841,35 @@
       "cn": "http://www.postgres.cn/document"
     },
     "tags": [ "后端", "数据库" ]
+  },
+  {
+    "title": "WePY",
+    "website": "https://tencent.github.io/wepy/",
+    "des": "让小程序支持组件化开发的框架。",
+    "logo": "icons/wepy.png",
+    "urls": {
+      "git": "https://github.com/Tencent/wepy"
+    },
+    "tags": [ "前端" ]
+  },
+  {
+    "title": "支付宝小程序",
+    "website": "https://docs.alipay.com/mini/framework/app",
+    "des": "是一个基于支付宝运行的程序。",
+    "urls": {
+      "git": "https://github.com/webcoding/link"
+    },
+    "tags": [ "前端" ]
+  },
+  {
+    "title": "微信小程序",
+    "website": "https://mp.weixin.qq.com/debug/wxadoc/dev/api/",
+    "des": "是一个基于微信运行的程序。",
+    "urls": {
+      "git": "https://github.com/webcoding/link"
+    },
+    "tags": [
+      "前端"
+    ]
   }
 ]

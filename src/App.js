@@ -136,7 +136,7 @@ class App extends Component {
           })}
         </ul>
         <Footer>
-          Copyright © 2018 <a target="_blank" rel="noopener noreferrer" href="https://webcoding.github.io/dev-site">dev-site</a>
+          Copyright © 2018 <a target="_blank" rel="noopener noreferrer" href="https://github.com/jaywcjlove/dev-site">dev-site</a>
         </Footer>
       </div>
     );
