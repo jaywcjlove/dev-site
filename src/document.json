@@ -308,7 +308,7 @@
     "title": "Next.js(React)",
     "website": "https://zeit.co/docs",
     "des": "一个基于React的一个服务端渲染简约框架。",
-    "logo": "icons/next-logo.png",
+    "logo": "icons/next-logo.svg",
     "urls": {
       "cn": "https://learnnextjs.com/",
       "git": "https://github.com/zeit/next.js"
