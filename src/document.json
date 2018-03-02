@@ -1,5 +1,26 @@
 [
   {
+    "title": "Egg.js",
+    "website": "https://eggjs.org/zh-cn/",
+    "des": "Egg.js，为企业级框架和应用而生，是阿里开源的企业级 Node.js 框架。",
+    "logo": "icons/egg-logo.svg",
+    "urls": {
+      "cn": "https://eggjs.org/zh-cn/intro/",
+      "git": "https://github.com/eggjs/egg/"
+    },
+    "tags": [ "后端" ]
+  },
+  {
+    "title": "Let's Encrypt",
+    "website": "https://letsencrypt.org/",
+    "des": "Let's Encrypt是一个免费并且开源的CA，且已经获得Mozilla、微软等主要浏览器厂商的根授信。",
+    "logo": "icons/letsencrypt-logo.svg",
+    "urls": {
+      "cn": "https://letsencrypt.org/docs/"
+    },
+    "tags": [ "工具" ]
+  },
+  {
     "title": "NW.js",
     "website": "https://nwjs.io/",
     "des": "NW.js 可以使用WEB(html5、css3、js)技术，包括Node.js来开发桌面应用。前身是 “node-webkit” 项目。",
