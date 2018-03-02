@@ -754,7 +754,7 @@
     "title": "Knex.js",
     "website": "http://knexjs.org/",
     "des": "一款开箱即用的SQL查询构造器，支持各种数据库的查询构建。",
-    "logo": "icons/knex-logo.png",
+    "logo": "icons/knex-logo.svg",
     "urls": {
       "git": "https://github.com/tgriesser/knex"
     },
