@@ -18,7 +18,7 @@
     "urls": {
       "git": "https://github.com/golang/go"
     },
-    "tags": [ "服务端", "后端" ]
+    "tags": [ "服务端", "后端", "编程语言" ]
   },
   {
     "title": "Kotlin",
@@ -64,7 +64,7 @@
       "cn": "http://zh.cppreference.com/w/",
       "anoher":"http://www.cplusplus.com/"
     },
-    "tags": [ "C/C++" ]
+    "tags": [ "编程语言" ]
   },
   {
     "title": "Cocos",
@@ -126,7 +126,7 @@
     "urls": {
       "cn": "http://python.usyiyi.cn/translate/python_352/index.html"
     },
-    "tags": [ "服务端", "后端" ]
+    "tags": [ "服务端", "后端", "编程语言" ]
   },
   {
     "title": "Swift",
@@ -138,7 +138,7 @@
       "cn": "http://swiftguide.cn/",
       "community": "https://www.apple.com/cn/swift/"
     },
-    "tags": [ "服务端", "后端" ]
+    "tags": [ "服务端", "后端", "编程语言" ]
   },
   {
     "title": "JAVA",
@@ -148,7 +148,7 @@
     "urls": {
       "cn": "http://www.oracle.com/technetwork/cn/java/index.html"
     },
-    "tags": [ "服务端", "后端" ]
+    "tags": [ "服务端", "后端", "编程语言" ]
   },
   {
     "title": ".NET",
@@ -169,7 +169,7 @@
       "cn": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
       "es6": "http://es6.ruanyifeng.com/"
     },
-    "tags": [ "前端" ]
+    "tags": [ "前端", "编程语言" ]
   },
   {
     "title": "CSS",

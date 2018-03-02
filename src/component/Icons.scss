@@ -1,0 +1,16 @@
+.zhHans {
+  circle, path {
+    color: #606467;
+  }
+  path {
+    fill: #fff;
+  }
+  &:hover {
+    circle {
+      fill: #D64B24;
+    }
+    path {
+      fill: #FBDC00;
+    }
+  }
+}

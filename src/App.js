@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 import classNames from 'classnames';
 import Footer from './component/Footer';
 import source from './document.json';
+import { github, zhHans, heart, website } from './component/Icons';
 import './App.css';
+
 
 class App extends Component {
   constructor(props) {
@@ -13,6 +15,7 @@ class App extends Component {
       lists: [],
       star: star || [],
       tag: tag || '',
+      query: '',
       subMenu: [
         { title: '我的收藏', tag: '__star__' },
         { title: '全部', tag: '' },
@@ -29,6 +32,7 @@ class App extends Component {
     }
     this.setState({
       lists: source,
+      query: '',
     });
   }
   onAddStar(title) {
@@ -43,11 +47,20 @@ class App extends Component {
     });
   }
   onChangeTag(tag) {
-    this.setState({ tag }, () => {
+    this.setState({ tag, query: '' }, () => {
       localStorage.setItem('osc-doc-tag', JSON.stringify(tag));
     });
   }
+  onSearch(e) {
+    const query = e.target.value;
+    this.setState({ query });
+  }
+  getFilterLists() {
+    const { query, lists } = this.state;
+    return !query ? lists : lists.filter(item => item.title.toLowerCase().indexOf(query.toLowerCase()) > -1);
+  }
   render() {
+    const lists = this.getFilterLists();
     return (
       <div className="warpper">
         <a href="https://github.com/jaywcjlove/dev-site" target="_blank" rel="noopener noreferrer" className="github-corner">
@@ -59,6 +72,7 @@ class App extends Component {
         </a>
         <div className="header">
           <span className="title">开发文档</span>
+          {!this.state.tag && <input placeholder="输入搜索内容" className="search" onChange={this.onSearch.bind(this)} />}
           <div className="tag">
             {this.state.subMenu.map((item, idx) => {
               return (
@@ -77,24 +91,22 @@ class App extends Component {
         </div>
         {this.state.star.length === 0 && this.state.tag === '__star__' && <div className="noFind">还没有收藏，赶紧去收藏吧</div>}
         <ul className="lists">
-          {this.state.lists.map((item, idx) => {
+          {lists.map((item, idx) => {
             const urls = [];
             for (const key in item.urls) {
               if (Object.prototype.hasOwnProperty.call(item.urls, key)) {
                 let icon = '';
                 let title= key
                 if (key === 'git') {
-                  icon = 'github';
+                  icon = github;
                   title = 'Git 仓库';
                 } else if (key === 'cn') {
-                  icon = 'zhhans';
+                  icon = zhHans;
                   title = '中文网站';
-                } else icon = 'website';
+                } else icon = website;
                 urls.push(
                   <a key={key} title={title} href={item.urls[key]}>
-                    <svg className={classNames({ zhhans: icon === 'zhhans' })}>
-                      <use xlinkHref={`./dev.svg#icon-${icon}`} />
-                    </svg>
+                    {icon}
                   </a>
                 );
               }
