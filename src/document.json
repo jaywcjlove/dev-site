@@ -321,7 +321,7 @@
     "title": "Nuxt.js(Vue)",
     "website": "https://nuxtjs.org/",
     "des": "一个基于 Vue.js 的通用应用框架。",
-    "logo": "icons/nuxt-logo.png",
+    "logo": "icons/nuxt-logo.svg",
     "urls": {
       "cn": "https://zh.nuxtjs.org/",
       "git": "https://github.com/nuxt"
