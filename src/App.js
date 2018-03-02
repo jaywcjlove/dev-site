@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import classNames from 'classnames';
 import Footer from './component/Footer';
 import source from './document.json';
-import { github, zhHans, heart, website } from './component/Icons';
+import { github, zhHans, website } from './component/Icons';
 import './App.css';
 
 
