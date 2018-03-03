@@ -45,17 +45,6 @@
     "tags": [ "工具库", "后端", "libuv" ]
   },
   {
-    "title": "Pinus",
-    "website": "http://pinus.io/",
-    "des": "基于Node.js的分布式水平扩展游戏服务器轻量级框架。",
-    "logo": "icons/pinus.png",
-    "urls": {
-      "git": "https://github.com/node-pinus/pinus",
-      "cn": "http://pinus.io/zh-cn/introduce.html"
-    },
-    "tags": [ "服务端", "后端", "框架" ]
-  },
-  {
     "title": "C/C++",
     "website": "http://en.cppreference.com/w/",
     "des": "C/C++",
