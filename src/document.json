@@ -193,6 +193,17 @@
     "tags": [ "编译器", "前端" ]
   },
   {
+    "title": "CoffeeScript",
+    "website": "http://coffeescript.org/",
+    "des": "一门编译到 JavaScript 的小巧语言。",
+    "logo": "icons/coffeescript.svg",
+    "urls": {
+      "cn": "http://coffee-script.org/",
+      "git": "https://github.com/jashkenas/coffeescript"
+    },
+    "tags": [ "编译器", "前端" ]
+  },
+  {
     "title": "Webpack",
     "website": "https://webpack.js.org/",
     "des": "前端资源打包工具",
