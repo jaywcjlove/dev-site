@@ -592,6 +592,16 @@
     "tags": [ "代码质量", "前端" ]
   },
   {
+    "title": "Prettier",
+    "website": "https://prettier.io",
+    "des": "一个有见识的代码格式化工具。",
+    "logo": "icons/prettier.svg",
+    "urls": {
+      "git": "https://github.com/prettier/prettier"
+    },
+    "tags": [ "代码质量", "前端" ]
+  },
+  {
     "title": "StyleLint",
     "website": "http://stylelint.io/",
     "des": "强大的现代CSS检测器",
