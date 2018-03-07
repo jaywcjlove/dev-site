@@ -376,6 +376,17 @@
     "tags": [ "框架", "移动端", "前端" ]
   },
   {
+    "title": "Keras",
+    "website": "https://keras.io",
+    "des": "一个用 Python 编写的高级神经网络 API。",
+    "logo": "icons/keras.svg",
+    "urls": {
+      "cn": "https://keras.io/zh/",
+      "git": "https://github.com/keras-team/keras"
+    },
+    "tags": [ "框架", "深度学习" ]
+  },
+  {
     "title": "React Native",
     "website": "http://facebook.github.io/react-native/",
     "des": "使用JS和React构建原生移动应用程序",
