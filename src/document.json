@@ -33,17 +33,6 @@
     "tags": [ "服务端", "前端", "Android" ]
   },
   {
-    "title": "ReactiveX",
-    "website": "http://reactivex.io/",
-    "des": "用于 JavaScript 的 ReactiveX 库。",
-    "logo": "icons/reactivex.svg",
-    "urls": {
-      "git": "https://github.com/ReactiveX/rxjs",
-      "cn": "http://cn.rx.js.org/"
-    },
-    "tags": [ "服务端", "前端", "RxJS", "工具库" ]
-  },
-  {
     "title": "libuv",
     "website": "http://libuv.org/",
     "des": "多平台支持库，专注于异步I/O。",
@@ -316,6 +305,17 @@
     "tags": [ "框架", "客户端", "前端" ]
   },
   {
+    "title": "ReactiveX",
+    "website": "http://reactivex.io/",
+    "des": "用于 JavaScript 的 ReactiveX 库。",
+    "logo": "icons/reactivex.svg",
+    "urls": {
+      "git": "https://github.com/ReactiveX/rxjs",
+      "cn": "http://cn.rx.js.org/"
+    },
+    "tags": [ "前端", "工具库" ]
+  },
+  {
     "title": "Next.js(React)",
     "website": "https://zeit.co/docs",
     "des": "一个基于React的一个服务端渲染简约框架。",
@@ -324,9 +324,7 @@
       "cn": "https://learnnextjs.com/",
       "git": "https://github.com/zeit/next.js"
     },
-    "tags": [
-      "前端"
-    ]
+    "tags": [ "前端" ]
   },
   {
     "title": "Nuxt.js(Vue)",
@@ -337,9 +335,7 @@
       "cn": "https://zh.nuxtjs.org/",
       "git": "https://github.com/nuxt"
     },
-    "tags": [
-      "前端"
-    ]
+    "tags": [ "前端" ]
   },
   {
     "title": "Nest.js",
@@ -350,10 +346,7 @@
       "cn": "https://docs.nestjs.cn/",
       "git": "https://github.com/nestjs/nest"
     },
-    "tags": [
-      "前端",
-      "后端"
-    ]
+    "tags": [ "前端", "后端" ]
   },
   {
     "title": "React",
