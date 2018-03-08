@@ -33,17 +33,13 @@
     "tags": [ "服务端", "前端", "Android" ]
   },
   {
-    "title": "RxJS",
+    "title": "ReactiveX",
     "website": "http://reactivex.io/",
     "des": "用于 JavaScript 的 ReactiveX 库。",
-    "logo": "icons/kotlin.svg",
+    "logo": "icons/reactivex.svg",
     "urls": {
       "git": "https://github.com/ReactiveX/rxjs",
-      "cn": "http://cn.rx.js.org/",
-      "learn":"http://reactivex.io/rxjs/manual/overview.html",
-      "learn_cncn": "http://cn.rx.js.org/manual/overview.html",
-      "tutorial":"http://reactivex.io/rxjs/manual/tutorial.html",
-      "tutorial_cn":"http://cn.rx.js.org/manual/tutorial.html"
+      "cn": "http://cn.rx.js.org/"
     },
     "tags": [ "服务端", "前端", "RxJS", "工具库" ]
   },
