@@ -215,6 +215,17 @@
     "tags": [ "构建工具", "前端" ]
   },
   {
+    "title": "Parcel",
+    "website": "https://en.parceljs.org/",
+    "des": "极速零配置Web应用打包工具",
+    "logo": "icons/parcel.svg",
+    "urls": {
+      "cn": "https://zh.parceljs.org/",
+      "git": "https://github.com/parcel-bundler/parcel"
+    },
+    "tags": [ "构建工具", "前端" ]
+  },
+  {
     "title": "Rollup",
     "website": "http://rollupjs.org",
     "des": "前端资源打包工具",
