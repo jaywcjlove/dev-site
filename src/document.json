@@ -608,6 +608,17 @@
     "tags": [ "前端" ]
   },
   {
+    "title": "Easings",
+    "website": "http://easings.net/",
+    "des": "缓动函数速查表。",
+    "logo": "icons/easings.svg",
+    "urls": {
+      "git": "https://github.com/ai/easings.net",
+      "cn": "http://easings.net/zh-cn"
+    },
+    "tags": [ "前端", "前端工具" ]
+  },
+  {
     "title": "Require.js",
     "website": "http://requirejs.org/",
     "des": "一个JS文件和模块加载器。",
