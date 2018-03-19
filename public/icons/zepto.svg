@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158" height="158" viewBox="0 0 158 158">
+  <defs>
+    <linearGradient id="zepto-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#BF35EF"/>
+      <stop offset="52.353%" stop-color="#9773FF"/>
+      <stop offset="100%" stop-color="#8868FF"/>
+    </linearGradient>
+    <path id="zepto-a" d="M79,158 C35.3695048,158 0,122.630495 0,79 C0,35.3695048 35.3695048,0 79,0 C122.630495,0 158,35.3695048 158,79 C158,122.630495 122.630495,158 79,158 Z M19.0626259,46.3473856 C17.4346221,46.3979145 15.7669762,47.3945419 14.0596881,49.3372679 C4.99411391,60.786476 3.54669009,77.8826354 9.71741662,100.625746 C10.9215016,104.5058 13.6612038,106.0202 17.9365234,105.168945 C37.0395045,94.5807461 53.1116536,75.1710553 66.1529708,46.9398727 C66.2440048,46.7428068 66.020364,46.3473856 65.8186857,46.3473856 C38.8803118,46.3473856 23.2949586,46.3473856 19.0626259,46.3473856 Z M140.616998,111.051296 C142.315212,111.058879 143.814277,110.062251 145.114194,108.061413 C153.773761,92.6765124 155.060059,75.8689244 148.973088,57.6386493 C147.214753,54.8368956 144.536138,54.3930622 140.937244,56.3071492 C121.834263,66.8953484 106.381985,83.0965524 91.9031144,109.515794 C91.6068076,110.477586 92.3693841,111.053705 92.9013428,111.051296 C119.839717,111.051296 136.384665,111.051296 140.616998,111.051296 Z"/>
+    <linearGradient id="zepto-c" x1="38.951%" x2="38.951%" y1="-24.214%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFF"/>
+    </linearGradient>
+    <linearGradient id="zepto-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#8772FF"/>
+      <stop offset="100%" stop-color="#8FA0FF" stop-opacity=".549"/>
+    </linearGradient>
+    <linearGradient id="zepto-g" x1="64.776%" x2="42.608%" y1="35.501%" y2="100%">
+      <stop offset="0%" stop-color="#7A4DFC"/>
+      <stop offset="100%" stop-color="#A280FF"/>
+    </linearGradient>
+    <ellipse id="zepto-f" cx="129.275" cy="88.311" rx="120.5" ry="52"/>
+    <radialGradient id="zepto-h" cx="92.19%" cy="52.636%" r="70.053%" fx="92.19%" fy="52.636%" gradientTransform="matrix(0 .93038 -.71794 0 1.3 -.331)">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="zepto-i" cx="44.092%" cy="55.136%" r="52.721%" fx="44.092%" fy="55.136%" gradientTransform="matrix(0 1 -1.08114 0 1.037 .11)">
+      <stop offset="0%" stop-color="#64ACDD"/>
+      <stop offset="100%" stop-color="#7899F4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="zepto-d" fill="#fff">
+      <use xlink:href="#zepto-a"/>
+    </mask>
+    <use fill="url(#zepto-b)" xlink:href="#zepto-a"/>
+    <path fill="url(#zepto-c)" d="M32.2444025,127.468648 C55.1188502,139.358913 93.0890094,144.815158 135.13432,140.396018 C147.495507,139.096805 159.334691,137.035907 170.396128,134.357089 C182.747841,137.934023 190,142.294491 190,147 C190,159.150264 141.646753,169 82,169 C22.353247,169 -26,159.150264 -26,147 C-26,138.504906 -2.36309991,131.134399 32.2444025,127.468648 Z" mask="url(#zepto-d)" opacity=".62"/>
+    <g mask="url(#zepto-d)" transform="rotate(-6 129.275 88.31)">
+      <use fill="url(#zepto-e)" xlink:href="#zepto-f"/>
+      <use fill="url(#zepto-g)" xlink:href="#zepto-f"/>
+    </g>
+    <ellipse cx="66.5" cy="42" fill="url(#zepto-h)" mask="url(#zepto-d)" opacity=".175" rx="73.5" ry="79"/>
+    <circle cx="103.5" cy="102.5" r="64.5" fill="url(#zepto-i)" mask="url(#zepto-d)" opacity=".858"/>
+  </g>
+</svg>

@@ -601,7 +601,7 @@
     "title": "Zepto",
     "website": "http://zeptojs.com",
     "des": "轻量级的工具库",
-    "logo": "icons/zepto.png",
+    "logo": "icons/zepto.svg",
     "urls": {
       "git": "https://github.com/jquery/jquery"
     },
