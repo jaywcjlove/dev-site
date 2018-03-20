@@ -666,8 +666,8 @@
     "des": "令人愉快的 JavaScript 测试",
     "logo": "icons/jest.svg",
     "urls": {
-      "cn": "http://stylelint.cn/",
-      "git": "https://facebook.github.io/jest/zh-Hans/"
+      "cn": "https://facebook.github.io/jest/zh-Hans/",
+      "git": "https://github.com/facebook/jest"
     },
     "tags": [ "代码质量", "测试工具", "前端" ]
   },
