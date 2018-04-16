@@ -386,7 +386,8 @@
     "des": "一种新型的方式,用于创建高性能、跨平台的移动应用。",
     "logo": "icons/flutter.svg",
     "urls": {
-      "git": "https://github.com/flutter/flutter"
+      "git": "https://github.com/flutter/flutter",
+      "cn": "https://flutterchina.club/"
     },
     "tags": [ "框架", "移动端", "前端" ]
   },
