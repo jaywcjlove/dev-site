@@ -366,6 +366,7 @@
     "logo": "icons/react-logo.svg",
     "urls": {
       "cn": "https://doc.react-china.org/",
+      "cn-doc2": "http://react.css88.com/",
       "git": "https://github.com/facebook/react/"
     },
     "tags": [ "框架", "React", "前端" ]
@@ -434,7 +435,18 @@
       "cn": "http://cn.redux.js.org/",
       "git": "https://github.com/reactjs/redux"
     },
-    "tags": [ "React", "前端" ]
+    "tags": [ "React", "前端", "redux" ]
+  },
+  {
+    "title": "Rematch",
+    "website": "https://rematch.gitbooks.io/rematch",
+    "des": "管理 Redux 异步增强中间件。",
+    "logo": "icons/redux-logo.svg",
+    "urls": {
+      "cn": "https://rematch.gitbook.io/handbook/",
+      "git": "https://rematch.gitbooks.io/rematch"
+    },
+    "tags": [ "React", "前端", "redux" ]
   },
   {
     "title": "redux-saga",
@@ -445,7 +457,7 @@
       "cn": "https://redux-saga-in-chinese.js.org/",
       "git": "https://github.com/redux-saga/redux-saga"
     },
-    "tags": [ "React", "前端" ]
+    "tags": [ "React", "前端", "redux" ]
   },
   {
     "title": "MobX",
