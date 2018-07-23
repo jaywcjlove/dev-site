@@ -410,7 +410,8 @@
     "logo": "icons/react-logo.svg",
     "urls": {
       "git": "https://github.com/facebook/react-native",
-      "cn": "https://reactnative.cn",
+      "cn": "http://rn.wlfcss.com/react-native/",
+      "cn2": "https://reactnative.cn",
       "React Native libraries": "https://www.native.directory/"
     },
     "tags": [ "框架", "React", "前端" ]
