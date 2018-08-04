@@ -162,11 +162,11 @@
   },
   {
     "title": "30 秒 JavaScript",
-    "website": "http://www.css88.com/30-seconds-of-code/",
+    "website": "https://30secondsofcode.org/",
     "des": "是一种轻量级解释或JIT编译型的编程语言。",
     "logo": "icons/javascript.svg",
     "urls": {
-      "cn": "http://caibaojian.com/30-seconds-of-code.html",
+      "cn": "http://www.css88.com/30-seconds-of-code/",
       "git": "https://github.com/Chalarangelo/30-seconds-of-code"
     },
     "tags": [ "前端", "编程语言", "JavaScript" ]
