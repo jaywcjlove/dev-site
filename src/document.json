@@ -158,7 +158,18 @@
       "cn": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
       "es6": "http://es6.ruanyifeng.com/"
     },
-    "tags": [ "前端", "编程语言" ]
+    "tags": [ "前端", "编程语言", "JavaScript" ]
+  },
+  {
+    "title": "30 秒 JavaScript",
+    "website": "http://www.css88.com/30-seconds-of-code/",
+    "des": "是一种轻量级解释或JIT编译型的编程语言。",
+    "logo": "icons/javascript.svg",
+    "urls": {
+      "cn": "http://caibaojian.com/30-seconds-of-code.html",
+      "git": "https://github.com/Chalarangelo/30-seconds-of-code"
+    },
+    "tags": [ "前端", "编程语言", "JavaScript" ]
   },
   {
     "title": "CSS",
@@ -167,6 +178,17 @@
     "logo": "icons/css-3.svg",
     "urls": {
       "cn": "http://www.chinaw3c.org/"
+    },
+    "tags": [ "前端", "CSS" ]
+  },
+  {
+    "title": "30 秒 CSS",
+    "website": "https://atomiks.github.io/30-seconds-of-css/",
+    "des": "您可以在30秒或更短的时间内弄懂的有用CSS代码片段的精选。",
+    "logo": "icons/css-3.svg",
+    "urls": {
+      "cn": "http://caibaojian.com/30-seconds-of-css/",
+      "git": "https://github.com/atomiks/30-seconds-of-css"
     },
     "tags": [ "前端", "CSS" ]
   },
