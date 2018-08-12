@@ -97,10 +97,10 @@ class App extends Component {
               if (Object.prototype.hasOwnProperty.call(item.urls, key)) {
                 let icon = '';
                 let title= key
-                if (key === 'git') {
+                if (/^git/.test(key)) {
                   icon = github;
                   title = 'Git 仓库';
-                } else if (key === 'cn') {
+                } else if (/^cn/.test(key)) {
                   icon = zhHans;
                   title = '中文网站';
                 } else icon = website;

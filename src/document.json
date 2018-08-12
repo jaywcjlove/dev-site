@@ -297,7 +297,8 @@
     "des": "新一代的Web后台框架",
     "logo": "icons/koa.png",
     "urls": {
-      "cn": "https://github.com/guo-yu/koa-guide",
+      "cn": "https://koa.bootcss.com/",
+      "cn2": "https://github.com/guo-yu/koa-guide",
       "git": "https://github.com/koajs/koa"
     },
     "tags": [ "框架", "后端" ]
