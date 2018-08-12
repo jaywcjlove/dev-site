@@ -581,6 +581,15 @@
     "tags": [ "工具库" ]
   },
   {
+    "title": "apiDoc",
+    "website": "http://apidocjs.com",
+    "des": "生成RESTful Web API文档。",
+    "urls": {
+      "git": "https://github.com/apidoc/apidoc"
+    },
+    "tags": [ "工具库" ]
+  },
+  {
     "title": "Nginx",
     "website": "http://nginx.org/en/",
     "des": "是一个高性能的HTTP和反向代理服务器，也是一个IMAP/POP3/SMTP服务器。",
