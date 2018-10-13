@@ -946,6 +946,16 @@
     "tags": [ "后端", "数据库" ]
   },
   {
+    "title": "Docker",
+    "website": "https://docs.docker.com/",
+    "des": "一个开源的应用容器引擎。",
+    "logo": "icons/docker.svg",
+    "urls": {
+      "cn": "https://docs.docker-cn.com/"
+    },
+    "tags": [ "docker" ]
+  },
+  {
     "title": "WePY",
     "website": "https://tencent.github.io/wepy/",
     "des": "让小程序支持组件化开发的框架。",
