@@ -16,7 +16,8 @@
     "des": "一种开源编程语言，可以轻松构建简单，可靠和高效的软件。",
     "logo": "icons/gopher.svg",
     "urls": {
-      "git": "https://github.com/golang/go"
+      "git": "https://github.com/golang/go",
+      "Go语言圣经中文版":"https://wizardforcel.gitbooks.io/gopl-zh/"
     },
     "tags": [ "服务端", "后端", "编程语言" ]
   },
