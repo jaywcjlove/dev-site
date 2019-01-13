@@ -231,7 +231,8 @@
     "des": "前端资源打包工具",
     "logo": "icons/webpack-logo.svg",
     "urls": {
-      "cn": "https://doc.webpack-china.org/",
+      "cn1": "https://www.webpackjs.com/",
+      "cn2": "https://doc.webpack-china.org/",
       "git": "https://github.com/webpack/webpack"
     },
     "tags": [ "构建工具", "前端" ]
