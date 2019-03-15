@@ -389,7 +389,7 @@
     "des": "用于构建UI的JS库",
     "logo": "icons/react-logo.svg",
     "urls": {
-      "cn": "https://doc.react-china.org/",
+      "cn": "https://zh-hans.reactjs.org/",
       "cn-doc2": "http://react.css88.com/",
       "git": "https://github.com/facebook/react/"
     },
