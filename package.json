@@ -2,7 +2,7 @@
   "name": "dev-site",
   "homepage": "https://jaywcjlove.github.io/dev-site",
   "version": "1.0.0",
-  "private": true,
+  "main": "src/document.json",
   "dependencies": {
     "classnames": "^2.2.5",
     "gh-pages": "^1.1.0",
@@ -12,6 +12,9 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
+  "files": [
+    "src/document.json"
+  ],
   "scripts": {
     "deploy": "npm run build && gh-pages -d build",
     "build-css": "node-sass-chokidar src/ -o src/",

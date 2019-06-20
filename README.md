@@ -17,3 +17,13 @@
 [![Chrome插件oscnews](http://jaywcjlove.github.io/sb/download/chrome-web-store.svg)](https://chrome.google.com/webstore/detail/oscnews/iheapfheanfjcemgneblljhaebonakbg)
 
 可以通过 Chrome 插件 [oscnews](https://github.com/jaywcjlove/oscnews) 来使用开发者文档导航网站，上面链接是 Chrome 链接下载地址，也可以下载 [crx](https://github.com/jaywcjlove/oscnews/releases) 文件来安装插件。
+
+## 数据使用
+
+```
+npm i dev-site
+```
+
+```js
+import data from 'dev-site';
+```
