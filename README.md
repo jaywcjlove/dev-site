@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://jaywcjlove.github.io/dev-site">
-    <img src="./home.png">
+    <img src="https://raw.githubusercontent.com/jaywcjlove/dev-site/master/home.png">
   </a>
   <h1>开发者文档网站导航</h1>
 </div>
