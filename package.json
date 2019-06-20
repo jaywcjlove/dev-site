@@ -1,7 +1,7 @@
 {
   "name": "dev-site",
   "homepage": "https://jaywcjlove.github.io/dev-site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/document.json",
   "dependencies": {
     "classnames": "^2.2.5",
