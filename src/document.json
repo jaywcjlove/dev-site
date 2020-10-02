@@ -958,7 +958,7 @@
   },
   {
     "title": "WePY",
-    "website": "https://tencent.github.io/wepy/",
+    "website": "https://wepyjs.gitee.io/wepy-docs/",
     "des": "让小程序支持组件化开发的框架。",
     "logo": "icons/wepy.svg",
     "urls": {
