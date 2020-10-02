@@ -162,19 +162,19 @@
   },
   {
     "title": "30 秒 JavaScript",
-    "website": "https://30secondsofcode.org/",
+    "website": "https://www.30secondsofcode.org/js/p/1",
     "des": "是一种轻量级解释或JIT编译型的编程语言。",
     "logo": "icons/javascript.svg",
     "urls": {
-      "cn": "http://www.css88.com/30-seconds-of-code/",
-      "git": "https://github.com/Chalarangelo/30-seconds-of-code"
+      "cn": "https://www.html.cn/30-seconds-of-code/",
+      "git": "https://github.com/30-seconds/30-seconds-of-code"
     },
     "tags": [ "前端", "编程语言", "JavaScript" ]
   },
   {
-    "title": "CSS",
+    "title": "W3C",
     "website": "https://www.w3.org/",
-    "des": "一种用来表现HTML或XML等文件样式的计算机语言。",
+    "des": "万维网联盟（W3C）是一个国际社区，成员组织，专职人员和公众共同努力，以开发 Web 标准",
     "logo": "icons/css-3.svg",
     "urls": {
       "cn": "http://www.chinaw3c.org/"
@@ -183,7 +183,7 @@
   },
   {
     "title": "30 秒 CSS",
-    "website": "https://atomiks.github.io/30-seconds-of-css/",
+    "website": "https://www.30secondsofcode.org/css/p/1",
     "des": "您可以在30秒或更短的时间内弄懂的有用CSS代码片段的精选。",
     "logo": "icons/css-3.svg",
     "urls": {
