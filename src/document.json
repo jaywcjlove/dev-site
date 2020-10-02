@@ -948,12 +948,9 @@
   },
   {
     "title": "Docker",
-    "website": "https://docker.github.io/",
+    "website": "https://docs.docker.com/",
     "des": "一个开源的应用容器引擎。",
     "logo": "icons/docker.svg",
-    "urls": {
-      "cn": "https://docs.docker-cn.com/"
-    },
     "tags": [ "docker" ]
   },
   {
