@@ -51,7 +51,7 @@
     "logo": "icons/c++.svg",
     "urls": {
       "cn": "http://zh.cppreference.com/w/",
-      "anoher":"http://www.cplusplus.com/"
+      "another":"http://www.cplusplus.com/"
     },
     "tags": [ "编程语言" ]
   },
