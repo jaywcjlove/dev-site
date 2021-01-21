@@ -13,6 +13,9 @@ package-lock.json
 
 # misc
 .DS_Store
+.eslintcache
+.cache
+.vscode
 .env.local
 .env.development.local
 .env.test.local
