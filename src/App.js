@@ -3,7 +3,7 @@ import classNames from 'classnames';
 import Footer from './component/Footer';
 import source from './document.json';
 import { github, zhHans, website } from './component/Icons';
-import './App.css';
+import './App.scss';
 
 
 class App extends Component {

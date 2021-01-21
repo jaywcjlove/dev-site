@@ -1,5 +1,5 @@
 import React from 'react';
-import './Icons.css';
+import './Icons.scss';
 
 const github = (
   <svg version="1.1" viewBox="0 0 16 16">
