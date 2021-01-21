@@ -2,36 +2,6 @@
   padding: 10px;
 }
 
-.github-corner{
-  svg{
-    fill: #E1E1E1;
-    color: #000;
-    position: absolute;
-    top: 0;
-    border: 0;
-    right: 0;
-    z-index: 99;
-    width: 70px;
-    height: 70px;
-  }
-  &:hover .octo-arm {
-    animation: octocat-wave 560ms ease-in-out;
-  }
-}
-
-@keyframes octocat-wave {
-  0%,100% {
-    transform:rotate(0);
-  }
-  20%,60% {
-    transform:rotate(-25deg);
-  }
-  40%,80% {
-    transform:rotate(10deg);
-  }
-}
-
-
 .header {
   padding: 25px 22px 10px;
   font-size: 24px;
