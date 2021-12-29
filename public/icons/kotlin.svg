@@ -24,8 +24,8 @@
         </linearGradient>
     </defs>
     <g>
-				<polygon fill="url(#linearGradient-1)" points="0 256 128.426667 127.573333 256 256"></polygon>
-				<polygon fill="url(#linearGradient-2)" points="0 0 128.426667 0 0 138.666667"></polygon>
-				<polygon fill="url(#linearGradient-3)" points="128.426667 0 0 135.253333 0 256 128.426667 127.573333 256 0"></polygon>
+        <polygon fill="url(#linearGradient-1)" points="0 256 128.426667 127.573333 256 256"></polygon>
+        <polygon fill="url(#linearGradient-2)" points="0 0 128.426667 0 0 138.666667"></polygon>
+        <polygon fill="url(#linearGradient-3)" points="128.426667 0 0 135.253333 0 256 128.426667 127.573333 256 0"></polygon>
     </g>
 </svg>

@@ -43,7 +43,7 @@
       margin: 0 2px;
       cursor: pointer;
       transition: background-color .3s;
-      &:hover, &:global(.active) {
+      &.active, &:hover {
         background-color: #868686;
         color: #fff;
       }
@@ -77,7 +77,7 @@
     transition: all .3s;
     &:hover {
       box-shadow: 0 0px 5px rgba(0, 0, 0, 0.6);
-      .star:not(:global(.active)) svg{
+      .star:not(.active) svg {
         animation-duration: 1s;  
         animation-fill-mode: both;
         animation: twinkling .6s infinite ease-in-out;
@@ -134,7 +134,7 @@
 
 .details {
   padding: 0px 10px 5px 10px;
-  max-width: 190px;
+  max-width: 230px;
   color: #969696;
 }
 
@@ -161,7 +161,7 @@
   .star {
     display: flex;
     align-items: center;
-    &:global(.active) {
+    &.active {
       svg {
         fill: #D64B24;
         &:hover {

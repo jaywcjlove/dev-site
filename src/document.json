@@ -299,7 +299,8 @@
     "logo": "icons/koa.png",
     "urls": {
       "cn": "https://koa.bootcss.com/",
-      "cn2": "https://github.com/guo-yu/koa-guide",
+      "cn2": "https://www.koajs.com.cn/",
+      "cn3": "https://github.com/guo-yu/koa-guide",
       "git": "https://github.com/koajs/koa"
     },
     "tags": [ "框架", "后端" ]
@@ -390,7 +391,7 @@
     "logo": "icons/react-logo.svg",
     "urls": {
       "cn": "https://zh-hans.reactjs.org/",
-      "cn-doc2": "http://react.css88.com/",
+      "cn2": "https://react.docschina.org/",
       "git": "https://github.com/facebook/react/"
     },
     "tags": [ "框架", "React", "前端" ]
@@ -436,7 +437,7 @@
       "git": "https://github.com/facebook/react-native",
       "cn": "http://rn.wlfcss.com/react-native/",
       "cn2": "https://reactnative.cn",
-      "React Native libraries": "https://www.native.directory/"
+      "React Native Directory": "https://reactnative.directory/"
     },
     "tags": [ "框架", "React", "前端" ]
   },
@@ -461,6 +462,15 @@
       "git": "https://github.com/reactjs/redux"
     },
     "tags": [ "React", "前端", "redux" ]
+  },
+  {
+    "title": "Ionic",
+    "website": "https://ionicframework.com",
+    "des": "是目前最有潜力的一款 HTML5 手机应用开发框架。",
+    "urls": {
+      "git": "https://github.com/ionic-team/ionic-framework"
+    },
+    "tags": [ "前端" ]
   },
   {
     "title": "Rematch",
@@ -981,8 +991,25 @@
     "urls": {
       "git": "https://github.com/webcoding/link"
     },
-    "tags": [
-      "前端"
-    ]
+    "tags": [ "前端" ]
+  },
+  {
+    "title": "uni-app",
+    "website": "https://uniapp.dcloud.io",
+    "des": "是一个使用 Vue.js 开发所有前端应用的框架，编写一套代码可发布到多个平台。",
+    "urls": {
+      "git": "https://github.com/dcloudio/uni-app"
+    },
+    "tags": [ "前端" ]
+  },
+  {
+    "title": "MDN Web Docs",
+    "website": "https://developer.mozilla.org",
+    "des": "面向 Web 开发者的文档。",
+    "logo": "icons/mdn.svg",
+    "urls": {
+      "git": "https://github.com/mdn/translated-content"
+    },
+    "tags": [ "前端" ]
   }
 ]
