@@ -453,6 +453,17 @@
     "tags": [ "React", "前端" ]
   },
   {
+    "title": "Create React App",
+    "website": "https://create-react-app.dev",
+    "des": "通过运行一个命令来设置现代 Web 应用程序。",
+    "logo": "icons/react-logo.svg",
+    "urls": {
+      "cn": "https://www.html.cn/create-react-app/",
+      "git": "https://github.com/facebook/create-react-app"
+    },
+    "tags": [ "React", "前端", "工具库" ]
+  },
+  {
     "title": "Redux",
     "website": "https://redux.js.org/",
     "des": "是 JS 状态容器，提供可预测化的状态管理。",
