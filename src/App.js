@@ -12,7 +12,7 @@ const initTag = JSON.parse(localStorage.getItem('osc-doc-tag'));
 function useData() {
   const [lists] = useState(source || []);
   const [star, setStar] = useState(initStar || []);
-  const [tag, setTag] = useState(initTag || ['all']);
+  const [tag, setTag] = useState(initTag || 'all');
   const [query, setQuery] = useState('');
   const [subMenu] = useState([
     { title: '我的收藏', tag: '__star__' },
