@@ -1,9 +1,10 @@
 {
   "name": "dev-site",
   "homepage": "https://jaywcjlove.github.io/dev-site/",
-  "version": "1.0.1",
-  "main": "src/document.json",
-  "dependencies": {
+  "version": "1.1.0",
+  "main": "./src/document.json",
+  "repository": "https://github.com/jaywcjlove/dev-site",
+  "devDependencies": {
     "@uiw/react-github-corners": "1.5.3",
     "classnames": "^2.2.6",
     "react": "17.0.2",
