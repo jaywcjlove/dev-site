@@ -52,6 +52,12 @@ jobs:
           
           ${{ steps.changelog.outputs.changelog }}
 
+    - name: 📦  dev-site publish to NPM
+      uses: JS-DevTools/npm-publish@v1
+      with:
+        token: ${{ secrets.NPM_TOKEN }}
+        package: ./package.json
+
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
