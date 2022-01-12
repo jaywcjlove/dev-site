@@ -9,20 +9,21 @@
     "classnames": "2.3.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "kkt": "6.11.0"
+    "kkt": "7.0.5"
   },
   "files": [
     "src/document.json"
   ],
   "scripts": {
-    "start": "PUBLIC_URL='.' kkt start",
-    "build": "PUBLIC_URL='.' kkt build",
+    "start": "kkt start",
+    "build": "kkt build",
     "test": "kkt test --env=jsdom",
     "test:coverage": "kkt test --env=jsdom --coverage"
   },
   "eslintConfig": {
     "extends": [
-      "react-app"
+      "react-app",
+      "react-app/jest"
     ]
   },
   "browserslist": {
