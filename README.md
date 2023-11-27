@@ -34,8 +34,8 @@ import data from 'dev-site';
 
 As always, thanks to our amazing contributors!
 
-<a href="https://github.com/jaywcjlove/dark-mode/graphs/contributors">
-  <img src="https://jaywcjlove.github.io/dark-mode/CONTRIBUTORS.svg" />
+<a href="https://github.com/jaywcjlove/dev-site/graphs/contributors">
+  <img src="https://jaywcjlove.github.io/dev-site/CONTRIBUTORS.svg" />
 </a>
 
 Made with [github-action-contributors](https://github.com/jaywcjlove/github-action-contributors).
