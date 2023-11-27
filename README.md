@@ -6,6 +6,8 @@
   <h1>开发者文档网站导航</h1>
 </div>
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor) 
+
 开发者文档网站导航 https://jaywcjlove.github.io/dev-site ，主要搜集各类编程语言，各种开发工具的开发文档，网站支持收藏，可以将常用文档网站收藏起来，在我的收藏快捷打开网站。
 
 ## 提交数据
