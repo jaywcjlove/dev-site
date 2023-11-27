@@ -29,3 +29,17 @@ npm i dev-site
 ```js
 import data from 'dev-site';
 ```
+
+## Contributors
+
+As always, thanks to our amazing contributors!
+
+<a href="https://github.com/jaywcjlove/dark-mode/graphs/contributors">
+  <img src="https://jaywcjlove.github.io/dark-mode/CONTRIBUTORS.svg" />
+</a>
+
+Made with [github-action-contributors](https://github.com/jaywcjlove/github-action-contributors).
+
+## License
+
+Licensed under the [MIT License](https://opensource.org/licenses/MIT).
