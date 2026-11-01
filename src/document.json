@@ -1022,5 +1022,19 @@
       "git": "https://github.com/mdn/translated-content"
     },
     "tags": [ "前端" ]
+  },
+  {
+    "title": "agent-qa",
+    "website": "https://vostride.com",
+    "des": "自然语言 Web、Android 与 iOS 测试文档，支持 memidex 持久记忆与经验证的自我改进。",
+    "logo": "icons/agent-qa.png",
+    "urls": {
+      "doc": "https://vostride.com/docs/agent-qa",
+      "git": "https://github.com/vostride/agent-qa"
+    },
+    "tags": [
+      "测试工具",
+      "工具库"
+    ]
   }
 ]
